@@ -18,7 +18,7 @@
   "dependencies": {
     "@quasar/extras": "^1.11.2",
     "axios": "^0.21.1",
-    "bowser": "^2.5.2",
+    "bowser": "^2.12.1",
     "chart.js": "^2.8.0",
     "dot-prop": "^5.2.0",
     "core-js": "^3.35.1",
